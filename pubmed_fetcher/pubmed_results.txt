@@ -1,0 +1,584 @@
+PMID: 40153827
+Details:
+
+PMID- 40153827
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250328
+LR  - 20250328
+IS  - 1842-1121 (Electronic)
+IS  - 1841-8724 (Linking)
+VI  - 34
+IP  - 1
+DP  - 2025 Mar 28
+TI  - Nucleolin as a Potent Biomarker for Predicting Tumor Recurrence among Patients 
+      with Hepatocellular Carcinoma after Transplantation.
+PG  - 81-89
+LID - 10.15403/jgld-5873 [doi]
+AB  - BACKGROUND AND AIMS: Tumor recurrence poses a significant challenge post-liver 
+      transplantation (LT) for hepatocellular carcinoma (HCC), necessitating the 
+      development of more precise predictive tools. In this study we aimed to 
+      investigate nucleolin as a biomarker for predicting HCC recurrence after LT. 
+      METHODS: A cohort of 241 HCC patients undergoing LT was enrolled from three 
+      medical facilities spanning January 1, 2015, to December 31, 2017. Utilizing 
+      tissue microarrays, we assessed the predictive potential of nucleolin. Survival 
+      analyses, including Kaplan-Meier and log-rank tests, were employed to scrutinize 
+      overall survival and recurrence-free survival. Based on univariate and 
+      multivariate Cox regression analyses of preoperative parameters, nomogram and 
+      risk score were designed to predict HCC recurrence and determine the 
+      effectiveness of the model. RESULTS: The expression of nucleolin in HCC nucleus 
+      was increased. High nucleolin expression in tumor tissues correlated with poor 
+      overall survival and recurrence-free survival (5-year overall survival ratios: 
+      34% vs. 64.8%, 5-year recurrence-free survival ratios: 36.1% vs.67.9%, all 
+      p<0.001). Multivariate Cox regression analysis identified nucleolin expression 
+      score, Hangzhou criteria, HBsAg, tumor differentiation and alpha-fetoprotein 
+      level as independent risk factors for tumor recurrence in HCC patients post- LT. 
+      A new nomogram is established based on the above risk factors with effective 
+      prediction efficiency (area under time-dependent receiver operating 
+      characteristic =0.742, concordance-index =0.7742). CONCLUSIONS: Nucleolin can be 
+      combined with a nomogram as an effective tool to predict recurrence in HCC 
+      patients following LT.
+FAU - Chen, Guanrong
+AU  - Chen G
+AD  - The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, China. . 202211122511253@zcmu.edu.cn.
+FAU - Hu, Xin
+AU  - Hu X
+AD  - Zhejiang University School of Medicine, Hangzhou, China. 12218345@zju.edu.cn.
+FAU - Huang, Yingchen
+AU  - Huang Y
+AD  - The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, China. 202311112511113@zcmu.edu.cn.
+FAU - Li, Huigang
+AU  - Li H
+AD  - Zhejiang University School of Medicine, Hangzhou, China. lihuigang@zju.edu.cn.
+FAU - Dong, Libin
+AU  - Dong L
+AD  - Zhejiang University School of Medicine, Hangzhou, China. 22218489@zju.edu.cn.
+FAU - Jiang, Yao
+AU  - Jiang Y
+AD  - Department of Basic Medicine, Hangzhou Medical College, Hangzhou, China. 
+      2217214270@qq.com.
+FAU - Lu, Di
+AU  - Lu D
+AD  - Department of Hepatobiliary and Pancreatic Surgery and Minimally Invasive 
+      Surgery, Zhejiang Provincial People's Hospital (Affiliated People's Hospital), 
+      Hangzhou Medical College, Zhejiang, China. zjuludi@zju.edu.cn.
+FAU - Jiang, Feng
+AU  - Jiang F
+AD  - Department of Big Data in Health Science, and Center for Clinical Big Data and 
+      Statistics, the Second Affiliated Hospital, College of Medicine, Zhejiang 
+      University, Hangzhou, China.
+FAU - Li, Xiuyang
+AU  - Li X
+AD  - Department of Big Data in Health Science, and Center for Clinical Big Data and 
+      Statistics, the Second Affiliated Hospital, College of Medicine, Zhejiang 
+      University, Hangzhou, China.
+FAU - Sun, Beicheng
+AU  - Sun B
+AD  - Department of Hepatobiliary Surgery, the Affiliated Drum Tower Hospital of 
+      Nanjing University Medical School, Nanjing, China; Department of Hepatobiliary 
+      Surgery, The First Affiliated Hospital of Anhui Medical University, Hefei, China. 
+      sunbc@nju.edu.cn.
+FAU - Zheng, Shusen
+AU  - Zheng S
+AD  - Department of Hepatobiliary and Pancreatic Surgery, Shulan (Hangzhou) Hospital, 
+      Hangzhou, China; Department of Hepatobiliary and Pancreatic Surgery, The First 
+      Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. 
+      shushenzheng@zju.edu.cn.
+FAU - Lang, Ren
+AU  - Lang R
+AD  - Department of Hepatobiliary Surgery, Beijing Chaoyang Hospital Affiliated to 
+      Capital Medical University, Beijing, China. dr_langren@126.com.
+FAU - Xu, Xiao
+AU  - Xu X
+AD  - School of Clinical Medicine, Hangzhou Medical College, Hangzhou, China; Institute 
+      of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, 
+      China. zjxu@zju.edu.cn.
+FAU - Chen, Ronggao
+AU  - Chen R
+AD  - Department of Hepatobiliary and Pancreatic Surgery, The First Affiliated 
+      Hospital, Zhejiang University School of Medicine, Hangzhou, China. 
+      crg_newday@163.com.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+DEP - 20250328
+PL  - Romania
+TA  - J Gastrointestin Liver Dis
+JT  - Journal of gastrointestinal and liver diseases : JGLD
+JID - 101272825
+RN  - 0 (Nucleolin)
+RN  - 0 (Phosphoproteins)
+RN  - 0 (RNA-Binding Proteins)
+RN  - 0 (Biomarkers, Tumor)
+SB  - IM
+MH  - Humans
+MH  - *Carcinoma, Hepatocellular/surgery/mortality/pathology
+MH  - *Liver Neoplasms/surgery/mortality/pathology/metabolism
+MH  - *Nucleolin
+MH  - *Phosphoproteins/analysis/metabolism
+MH  - *Neoplasm Recurrence, Local
+MH  - *RNA-Binding Proteins/metabolism/analysis
+MH  - Male
+MH  - Female
+MH  - Middle Aged
+MH  - *Biomarkers, Tumor/analysis/metabolism
+MH  - *Liver Transplantation/adverse effects
+MH  - Nomograms
+MH  - Risk Factors
+MH  - Predictive Value of Tests
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Adult
+MH  - Aged
+EDAT- 2025/03/28 18:25
+MHDA- 2025/03/28 18:26
+CRDT- 2025/03/28 17:12
+PHST- 2025/03/28 18:26 [medline]
+PHST- 2025/03/28 18:25 [pubmed]
+PHST- 2024/08/29 00:00 [received]
+PHST- 2025/02/02 00:00 [accepted]
+PHST- 2025/03/28 17:12 [entrez]
+AID - 10.15403/jgld-5873 [doi]
+PST - epublish
+SO  - J Gastrointestin Liver Dis. 2025 Mar 28;34(1):81-89. doi: 10.15403/jgld-5873.
+
+================================================================================
+PMID: 40153818
+Details:
+
+PMID- 40153818
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250328
+LR  - 20250328
+IS  - 1842-1121 (Electronic)
+IS  - 1841-8724 (Linking)
+VI  - 34
+IP  - 1
+DP  - 2025 Mar 27
+TI  - Programmed Cell Death-ligand 1 as Biomarker of Poor Prognosis in Patients with 
+      Gastrointestinal Stromal Tumour.
+PG  - 30-39
+LID - 10.15403/jgld-5858 [doi]
+AB  - BACKGROUND AND AIMS: To explore the prognostic role of programmed cell 
+      death-ligand 1 (PD-L1) in patients with gastrointestinal stromal tumours (GISTs). 
+      METHODS: PD-L1 expression was detected using immunohistochemistry in tissue 
+      microarrays from 96 GISTs samples. Survival of patients was assessed using Kaplan 
+      - Meier analysis. Possible risk factors for GISTs were explored using Cox 
+      proportional hazards regression models. The role of PD-L1 in GISTs proliferation, 
+      invasion, and metastasis was assessed using colony formation assay, scratch, 
+      transwell invasion, and migration assays. RESULTS: Survival in GISTs patients was 
+      significantly associated with PD-L1 expression (p < 0.05). High PD-L1 expression 
+      in GISTs resulted in relatively short overall survival (p=0.016). Univariate 
+      regression analysis showed that PD-L1 was a risk factor for poor prognosis 
+      (p<0.05). Compared with the control group, knockdown of PD-L1 significantly 
+      decreased the colony formation rate, and cell migration and invasion were 
+      inhibited compared with the control group. The wound healing ability of PD-L1 
+      knockdown group was significantly weaker than that of the control group. 
+      CONCLUSIONS: The results suggest that overexpression of PD-L1 is a risk factor 
+      for a poor prognosis in patients with GISTs. Knockdown of PD-L1 significantly 
+      inhibited the development of GISTs. PD-L1 may serve as a biomarker for the poor 
+      prognosis of GISTs and a potential therapeutic target.
+FAU - Yasheng, Duolikun
+AU  - Yasheng D
+AD  - Xinjiang Medical University, Urumqi, Xinjiang Uygur Autonomous Region, China. . 
+      duolikunyasheng@21cn.com.
+FAU - Aierken, Abuduwaili
+AU  - Aierken A
+AD  - Pancreas Center, The Affiliated BenQ Hospital of Nanjing Medical University, 
+      Nanjing, Jiangsu Province, China. abuduwaili2018@21cn.com.
+FAU - Li, Yiliang
+AU  - Li Y
+AD  - Department of Minimally Invasive Surgery, Hernia and Abdominal Wall Surgery, 
+      People's Hospital of Xinjiang Uygur Autonomous Region, Urumqi, Xinjiang Uygur 
+      Autonomous Region, China. liyilianglll@outlook.com.
+FAU - Aili, Aikebaier
+AU  - Aili A
+AD  - Department of Minimally Invasive Surgery, Hernia and Abdominal Wall Surgery, 
+      People's Hospital of Xinjiang Uygur Autonomous Region, Urumqi, Xinjiang Uygur 
+      Autonomous Region, China. aikebaier33aili@21cn.com.
+FAU - Abudureyimu, Kelimu
+AU  - Abudureyimu K
+AD  - Department of Minimally Invasive Surgery, Hernia and Abdominal Wall Surgery, 
+      People's Hospital of Xinjiang Uygur Autonomous Region, Urumqi, Xinjiang Uygur 
+      Autonomous Region, China. kelimuabudureyimu@126.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250327
+PL  - Romania
+TA  - J Gastrointestin Liver Dis
+JT  - Journal of gastrointestinal and liver diseases : JGLD
+JID - 101272825
+RN  - 0 (B7-H1 Antigen)
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (CD274 protein, human)
+SB  - IM
+MH  - Humans
+MH  - *Gastrointestinal Stromal Tumors/pathology/mortality/metabolism/genetics
+MH  - *B7-H1 Antigen/metabolism/analysis
+MH  - Male
+MH  - Female
+MH  - Middle Aged
+MH  - *Biomarkers, Tumor/metabolism/genetics/analysis
+MH  - *Cell Movement
+MH  - *Cell Proliferation
+MH  - Prognosis
+MH  - Aged
+MH  - Risk Factors
+MH  - Neoplasm Invasiveness
+MH  - Gastrointestinal Neoplasms/pathology/mortality/metabolism
+MH  - Cell Line, Tumor
+MH  - Adult
+MH  - Kaplan-Meier Estimate
+EDAT- 2025/03/28 18:25
+MHDA- 2025/03/28 18:26
+CRDT- 2025/03/28 17:12
+PHST- 2025/03/28 18:26 [medline]
+PHST- 2025/03/28 18:25 [pubmed]
+PHST- 2024/08/23 00:00 [received]
+PHST- 2025/01/15 00:00 [accepted]
+PHST- 2025/03/28 17:12 [entrez]
+AID - 10.15403/jgld-5858 [doi]
+PST - epublish
+SO  - J Gastrointestin Liver Dis. 2025 Mar 27;34(1):30-39. doi: 10.15403/jgld-5858.
+
+================================================================================
+PMID: 40152632
+Details:
+
+PMID- 40152632
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250328
+LR  - 20250328
+IS  - 1533-0338 (Electronic)
+IS  - 1533-0338 (Linking)
+VI  - 24
+DP  - 2025 Jan-Dec
+TI  - Characterization of T-Cell Receptor Profiles Predicts Survival Situation in 
+      Patients with Hepatocellular Carcinoma.
+PG  - 15330338251329699
+LID - 10.1177/15330338251329699 [doi]
+AB  - PurposeHepatocellular carcinoma (HCC) is the most common liver malignancy in the 
+      world, and tumor-infiltrating T cells have been shown to be closely related to 
+      the prognosis of HCC. This study investigated the potential and efficacy of T 
+      cell receptor (TCR) repertoire characterization as a biomarker for predicting 
+      survival differences.MethodsIn this study, we used high-throughput sequencing 
+      technology to systematically analyze the characteristics of TCR repertoires in 
+      tumor tissues obtained from 23 long-survivors and 8 short-survivors diagnosed 
+      with HCC.ResultsThe TCR composition in HCC long-survivors was found to be less 
+      diverse than in the short-survivors. In addition, in the context of V and J gene 
+      segments, long-survivors showed significantly higher usage of TRBJ1-3, TRBV10-1, 
+      TRBV15, and TRBV6-5, and lower usage of TRBJ2-2. Both principal component 
+      analysis (PCA) and the motif diagram of complementary determination region 3 
+      (CDR3) sequences could clearly discriminate short- and long-survivors. And there 
+      were five up-regulated and one down-regulated CDR3 sequences in the LS group 
+      compared with the SS group. According to the characteristics of TCR repertoire, 
+      we also established the survival-related evaluation system and the prediction 
+      model for the survival period of HCC patients.ConclusionOur study adds to the 
+      existing knowledge of TCR rearrangement profiles in HCC patients by elucidating 
+      the differential TCR rearrangement profiles between long-term and short-term 
+      surviving HCC patients. Also, our analysis identified a number of TCR genes that 
+      are significantly associated with survival, and these may not only serve as 
+      prognostic biomarkers but may also play an important role in antigen-specific 
+      immunotherapy.
+FAU - Wang, Fengyan
+AU  - Wang F
+AD  - Department of Gastroenterology, The First Affiliated Hospital of Shandong First 
+      Medical University & Shandong Provincial Qianfoshan Hospital, Jinan, China.
+AD  - Shandong Provincial Key Laboratory of Neuroprotective Drugs, Zibo, China.
+FAU - Deng, Li
+AU  - Deng L
+AD  - Department of Gastroenterology, The First Affiliated Hospital of Shandong First 
+      Medical University & Shandong Provincial Qianfoshan Hospital, Jinan, China.
+FAU - Li, Ziqiang
+AU  - Li Z
+AD  - Department of General Surgery, The First Affiliated Hospital of Shandong First 
+      Medical University & Shandong Provincial Qianfoshan Hospital, Jinan, China.
+FAU - Cao, Qiwei
+AU  - Cao Q
+AD  - Department of Pathology, The First Affiliated Hospital of Shandong First Medical 
+      University & Shandong Provincial Qianfoshan Hospital, Shandong Medicine and 
+      Health Key Laboratory of Clinical Pathology, Shandong Lung Cancer Institute, 
+      Shandong Institute of Nephrology, Jinan, China.
+FAU - Jiang, Runze
+AU  - Jiang R
+AUID- ORCID: 0000-0002-1442-3165
+AD  - Innovative Institute of Chinese Medicine and Pharmacy, Shandong University of 
+      Traditional Chinese Medicine, Jinan, China. RINGGOLD: 74738
+FAU - Xu, Changqing
+AU  - Xu C
+AD  - Department of Gastroenterology, The First Affiliated Hospital of Shandong First 
+      Medical University & Shandong Provincial Qianfoshan Hospital, Jinan, China.
+FAU - Yang, Jing
+AU  - Yang J
+AD  - Department of Gastroenterology, The First Affiliated Hospital of Shandong First 
+      Medical University & Shandong Provincial Qianfoshan Hospital, Jinan, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250328
+PL  - United States
+TA  - Technol Cancer Res Treat
+JT  - Technology in cancer research & treatment
+JID - 101140941
+RN  - 0 (Receptors, Antigen, T-Cell)
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (Complementarity Determining Regions)
+SB  - IM
+MH  - Humans
+MH  - *Carcinoma, Hepatocellular/mortality/genetics/pathology/metabolism/immunology
+MH  - *Liver Neoplasms/mortality/genetics/pathology/metabolism/immunology
+MH  - *Receptors, Antigen, T-Cell/genetics/metabolism
+MH  - Prognosis
+MH  - Male
+MH  - Female
+MH  - Middle Aged
+MH  - *Biomarkers, Tumor
+MH  - Complementarity Determining Regions/genetics
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Lymphocytes, Tumor-Infiltrating/immunology/metabolism
+MH  - Aged
+MH  - Adult
+OTO - NOTNLM
+OT  - T-cell receptor (TCR) repertoire
+OT  - hepatocellular carcinoma (HCC)
+OT  - high-throughput sequencing (HTS)
+OT  - immunotherapy
+OT  - prognostic biomarker
+COIS- Conflicting InterestsThe authors declared no potential conflicts of interest with 
+      respect to the research, authorship, and/or publication of this article.
+EDAT- 2025/03/28 12:32
+MHDA- 2025/03/28 12:33
+CRDT- 2025/03/28 09:23
+PHST- 2025/03/28 12:33 [medline]
+PHST- 2025/03/28 12:32 [pubmed]
+PHST- 2025/03/28 09:23 [entrez]
+AID - 10.1177/15330338251329699 [doi]
+PST - ppublish
+SO  - Technol Cancer Res Treat. 2025 Jan-Dec;24:15330338251329699. doi: 
+      10.1177/15330338251329699. Epub 2025 Mar 28.
+
+================================================================================
+PMID: 40152403
+Details:
+
+PMID- 40152403
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250328
+LR  - 20250328
+IS  - 1555-3892 (Electronic)
+IS  - 0963-6897 (Linking)
+VI  - 34
+DP  - 2025 Jan-Dec
+TI  - Bibliometric and LDA analysis of acute rejection in liver transplantation: 
+      Emerging trends, immunotherapy challenges, and the role of artificial 
+      intelligence.
+PG  - 9636897251325628
+LID - 10.1177/09636897251325628 [doi]
+AB  - With the rising demand for liver transplantation (LT), research on acute 
+      rejection (AR) has become increasingly diverse, yet no consensus has been 
+      reached. This study presents a bibliometric and latent Dirichlet allocation (LDA) 
+      topic modeling analysis of AR research in LT, encompassing 1399 articles. The 
+      United States, Zhejiang University, and the University of California, San 
+      Francisco emerged as leading contributors, while Levitsky J and Uemoto SJ were 
+      key researchers. The most influential journals included the American Journal of 
+      Transplantation, Journal of Hepatology, and Transplantation. The analysis reveals 
+      a transition from traditional histological assessments to molecular diagnostics, 
+      genetic and epigenetic profiling, and noninvasive biomarkers such as 
+      donor-derived cell-free DNA (dd-cfDNA) and microRNAs. Advances in immune 
+      checkpoint inhibitors (ICIs), cell-based therapies (Tregs, mesenchymal stem cells 
+      (MSCs)), AI-guided immunosuppression, and nanoparticle-mediated drug delivery 
+      systems reflect a growing emphasis on precision medicine. In addition, recent 
+      exploration of microbiome-based therapies and regenerative medicine, including 
+      MSCs and their extracellular vesicles, offers promising new avenues for reducing 
+      long-term immunosuppressive drug dependency and enhancing graft survival. These 
+      developments not only improve early AR detection and personalized treatment but 
+      also reduce toxicity, foster immune tolerance, and expand the scope of 
+      individualized therapeutic options. Global collaboration, supported by 
+      cutting-edge research and AI-driven decision-making, remains essential for 
+      refining AR strategies, improving graft survival, and achieving better long-term 
+      patient outcomes.
+FAU - Jiang, Liqing
+AU  - Jiang L
+AD  - Department of Hepatobiliary Surgery, The First Affiliated Hospital of Chongqing 
+      Medical University, Chongqing, China.
+FAU - Wang, Jie
+AU  - Wang J
+AD  - Department of Orthopedic Surgery, Second Affiliated Hospital of Xi'an Jiaotong 
+      University, Xi'an, China.
+FAU - Wang, Yihua
+AU  - Wang Y
+AD  - Department of Hepatobiliary Surgery, The Affiliated Hospital of Guizhou Medical 
+      University, Guiyang, China.
+FAU - Yang, Hang
+AU  - Yang H
+AD  - Department of Hepatobiliary Surgery, The First Affiliated Hospital of Chongqing 
+      Medical University, Chongqing, China.
+FAU - Kong, Lingwang
+AU  - Kong L
+AD  - Department of Hepatobiliary Pancreatic Tumor Center, Chongqing University Cancer 
+      Hospital, Chongqing, China.
+FAU - Wu, Zhongjun
+AU  - Wu Z
+AD  - Department of Hepatobiliary Surgery, The First Affiliated Hospital of Chongqing 
+      Medical University, Chongqing, China.
+FAU - Shen, Ai
+AU  - Shen A
+AD  - Department of Hepatobiliary Pancreatic Tumor Center, Chongqing University Cancer 
+      Hospital, Chongqing, China.
+FAU - Huang, ZuoTian
+AU  - Huang Z
+AD  - Department of Hepatobiliary Surgery, The First Affiliated Hospital of Chongqing 
+      Medical University, Chongqing, China.
+AD  - Department of Hepatobiliary Pancreatic Tumor Center, Chongqing University Cancer 
+      Hospital, Chongqing, China.
+FAU - Jiang, Yingsong
+AU  - Jiang Y
+AUID- ORCID: 0009-0005-9124-2455
+AD  - Department of Hepatobiliary Surgery, The First Affiliated Hospital of Chongqing 
+      Medical University, Chongqing, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250328
+PL  - United States
+TA  - Cell Transplant
+JT  - Cell transplantation
+JID - 9208854
+SB  - IM
+MH  - *Liver Transplantation
+MH  - Humans
+MH  - *Graft Rejection/immunology
+MH  - *Artificial Intelligence
+MH  - *Bibliometrics
+MH  - *Immunotherapy/methods
+OTO - NOTNLM
+OT  - acute rejection
+OT  - bibliometric analysis
+OT  - latent Dirichlet allocation
+OT  - liver transplantation
+COIS- Declaration of conflicting interestsThe author(s) declared no potential conflicts 
+      of interest with respect to the research, authorship, and/or publication of this 
+      article.
+EDAT- 2025/03/28 12:31
+MHDA- 2025/03/28 12:32
+CRDT- 2025/03/28 08:13
+PHST- 2025/03/28 12:32 [medline]
+PHST- 2025/03/28 12:31 [pubmed]
+PHST- 2025/03/28 08:13 [entrez]
+AID - 10.1177/09636897251325628 [doi]
+PST - ppublish
+SO  - Cell Transplant. 2025 Jan-Dec;34:9636897251325628. doi: 
+      10.1177/09636897251325628. Epub 2025 Mar 28.
+
+================================================================================
+PMID: 40152300
+Details:
+
+PMID- 40152300
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250328
+LR  - 20250328
+IS  - 2058-7384 (Electronic)
+IS  - 0394-6320 (Linking)
+VI  - 39
+DP  - 2025 Jan-Dec
+TI  - Comprehensive Pan-cancer Analysis Revealed CASP10 As a Promising Biomarker For 
+      Diverse Tumor Types.
+PG  - 3946320251327620
+LID - 10.1177/03946320251327620 [doi]
+AB  - We aimed to explore the comprehensive cancer landscape of Caspase-10 (CASP10). 
+      CASP10, a member of the caspase family, is located at the human chromosome locus 
+      2q33-34. Studies have suggested its potential role in the development of certain 
+      cancers. To evaluate CASP10 expression in normal and pan-cancer tissues, we 
+      integrated data from The Cancer Genome Atlas (TCGA), GEO, Human Protein Atlas 
+      (HPA), and UALCAN databases. The diagnostic and prognostic significance of CASP10 
+      was analyzed using Receiver Operating Characteristic (ROC), Cox regression, and 
+      Kaplan-Meier analysis. Correlations of CASP10 with clinical parameters were 
+      assessed via the Wilcoxon test, Kruskal-Wallis test, and logistic regression 
+      analysis. Genomic variations were explored with cBioPortal, GSCALite database, 
+      and UALCAN databases. LinkedOmics database was used to detect the function of 
+      CASP10 in pan-cancer. Interactions between CASP10 and the Tumor Immune 
+      Microenvironment (TIME) were investigated using TISIDB, TIMER2, and TISCH 
+      databases. The GSCALite database was utilized to assess the sensitivity of CASP10 
+      to small-molecule drugs. In addition, Western Blotting (WB) was employed to 
+      detect the expression of the CASP10 in our clinical Liver Hepatocellular 
+      Carcinoma (LIHC) and Stomach Adenocarcinoma (STAD) cohorts. The transcription and 
+      protein expression of CASP10 significantly differ across cancer types, marking it 
+      as a biomarker for diagnosis and prognosis. Its expression correlated with 
+      certain clinical characteristics such as histological types and Alpha-Fetoprotein 
+      (AFP) levels. CASP10 gene exhibited a 2% alteration frequency across pan-cancer 
+      patients, with significant SNV and CNV profiles, and decreased methylation 
+      levels. CASP10 was closely related to the Nuclear Factor-kappaappa B (NF-kappaB), TNF, 
+      cell cycle, and JAK-STAT signal pathways. CASP10 showed correlation with immune 
+      components in the tumor microenvironment, including lymphocytes, immune 
+      stimulators, immune inhibitors, MHC molecules, chemokines, receptors, and 
+      Cancer-Associated Fibroblasts (CAFs). Importantly, CASP10 could predict the 
+      sensitivity of diverse anti-cancer drugs. Finally, WB analysis validated the 
+      overexpression of CASP10 in LIHC and STAD tissues. Our comprehensive 
+      bioinformatic analysis reveal the function of CASP10 on the diagnosis, prognosis, 
+      and progression of diverse cancer types.
+FAU - Wang, Qian
+AU  - Wang Q
+AD  - National-Local Joint Engineering Research Center of Biodiagnosis & Biotherapy, 
+      The Second Affiliated Hospital, Xi'an Jiaotong University, Xi'an, China.
+AD  - The Precision Medical Institute, The Second Affiliated Hospital, Xi'an Jiaotong 
+      University, Xi'an, China.
+FAU - Jiang, Yaping
+AU  - Jiang Y
+AD  - Department of Clinical Laboratory, Xi'an NO. 3 Hospital, Xi'an, China.
+FAU - Liao, Weijia
+AU  - Liao W
+AD  - Laboratory of Hepatobiliary and Pancreatic Surgery, Affiliated Hospital of Guilin 
+      Medical University, Guilin, China.
+FAU - Zhu, Pengpeng
+AU  - Zhu P
+AUID- ORCID: 0000-0003-2583-5437
+AD  - National-Local Joint Engineering Research Center of Biodiagnosis & Biotherapy, 
+      The Second Affiliated Hospital, Xi'an Jiaotong University, Xi'an, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250328
+PL  - England
+TA  - Int J Immunopathol Pharmacol
+JT  - International journal of immunopathology and pharmacology
+JID - 8911335
+RN  - 0 (Biomarkers, Tumor)
+RN  - EC 3.4.22.- (Caspase 10)
+RN  - EC 3.4.22.63 (CASP10 protein, human)
+SB  - IM
+MH  - Humans
+MH  - *Biomarkers, Tumor/genetics
+MH  - *Caspase 10/genetics
+MH  - *Tumor Microenvironment/genetics
+MH  - Prognosis
+MH  - Neoplasms/genetics/pathology
+MH  - Liver Neoplasms/genetics/pathology
+MH  - Gene Expression Regulation, Neoplastic
+MH  - Carcinoma, Hepatocellular/genetics/pathology
+MH  - Databases, Genetic
+OTO - NOTNLM
+OT  - Bioinformatic analysis
+OT  - CASP10
+OT  - Diagnostic biomarker
+OT  - Pan-cancer
+OT  - Prognostic biomarker
+COIS- Declaration of conflicting interestsThe author(s) declared no potential conflicts 
+      of interest with respect to the research, authorship, and/or publication of this 
+      article.
+EDAT- 2025/03/28 12:32
+MHDA- 2025/03/28 12:33
+CRDT- 2025/03/28 07:53
+PHST- 2025/03/28 12:33 [medline]
+PHST- 2025/03/28 12:32 [pubmed]
+PHST- 2025/03/28 07:53 [entrez]
+AID - 10.1177/03946320251327620 [doi]
+PST - ppublish
+SO  - Int J Immunopathol Pharmacol. 2025 Jan-Dec;39:3946320251327620. doi: 
+      10.1177/03946320251327620. Epub 2025 Mar 28.
+
+================================================================================
