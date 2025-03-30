@@ -2,8 +2,8 @@ import argparse
 from Bio import Entrez, Medline
 import pandas as pd
 
-# Set your PubMed API email
-Entrez.email = "your-email@example.com"  # Change to your email
+
+Entrez.email = "your-email@example.com"  
 
 def fetch_pubmed_papers(query: str, max_results: int = 10, debug: bool = False) -> list:
     """Fetches research papers from PubMed based on a given query."""
